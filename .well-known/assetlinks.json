@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com_8124.cazaprecios.app.twa",
+      "sha256_cert_fingerprints": [
+        "41:FD:61:2F:D7:C3:41:A3:77:C9:B8:07:59:B5:59:0A:03:2E:E0:BC:6B:B6:A4:F0:15:7D:08:AE:44:01:5E:B1"
+      ]
+    }
+  }
+]
